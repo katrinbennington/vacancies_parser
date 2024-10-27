@@ -13,10 +13,9 @@
 * Pip
   
 **Установка:**
-Клонируйте репозиторий: git clone https://github.com/katrinbennington/diploma.git
+Клонируйте репозиторий: git clone https://github.com/katrinbennington/vacancies_parser.git
 
 Создайте виртуальную среду и активируйте ее: python -m venv venv source venv/bin/activate (for Unix/Linux) venv\Scripts\activate (for Windows)
-Пошаговая серия примеров, которые расскажут вам, как запустить среду разработки:
 
 Клонируйте репозиторий: git clone https://github.com/katrinbennington/vacancies_parser.git 
 
